@@ -1,0 +1,35 @@
+﻿  sample.cpp
+C:\Users\15416\Desktop\CS550\Project\Project\Point.h(56,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\Point.h(71,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\Point.h(81,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\Point.h(98,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\Point.h(116,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\Point.h(128,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\TreeProc.h(14,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\TreeProc.h(14,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\Terrain.h(23,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(122,50): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(176,49): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(179,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(179,36): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(216,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(396,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(397,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(458,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(945,49): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(946,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(947,49): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(948,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(994,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(994,57): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(995,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(995,57): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(1002,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(1002,57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(1003,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(1003,57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(1006,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\sample.cpp(1010,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\15416\Desktop\CS550\Project\Project\Curve.h(9): warning C4715: '`anonymous namespace'::fact': not all control paths return a value
+Curve.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\15416\Desktop\CS550\Project\Project\.\Debug\Sample.exe
